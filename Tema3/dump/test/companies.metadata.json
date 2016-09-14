@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"test.companies"},{"v":1,"key":{"category_code":1.0,"name":1.0},"name":"category_code_1_name_1","ns":"test.companies"},{"v":1,"key":{"number_of_employees":1.0},"name":"number_of_employees_1","ns":"test.companies"}]}
